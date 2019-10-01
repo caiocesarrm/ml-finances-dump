@@ -1,1 +1,1 @@
-# ml-finances-dump
+Disclaimer: This repository contain code that i used when i was learning ML. Although it contains a bot that trades in real time through metatrader 5 using predictions from ML algorithms, the code is a mess and I created the repository just to save the code. That said, feel free to use as you please.
